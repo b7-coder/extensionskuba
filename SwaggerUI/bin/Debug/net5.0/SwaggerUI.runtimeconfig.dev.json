@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BESTCOMP\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BESTCOMP\\.nuget\\packages",
+      "D:\\programs\\vs\\tools\\NuGetPackages"
+    ]
+  }
+}
